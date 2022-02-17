@@ -52,6 +52,8 @@ const getMagicNumber = () => 17;
 console.log(getMagicNumber());
 
 
-function sendEmail(userId) [
-  
-]
+function sendEmail(userId) {
+  //
+  const email = getEmailById(userId);
+  // send email
+}
